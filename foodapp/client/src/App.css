@@ -1,0 +1,29 @@
+*{
+  font-family: 'Poppins',sans-serif;
+}
+body{
+  background-color:white;
+}
+.jumbotron{
+
+  color: white;
+  background:url('./bfood.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: .8rem;
+}
+.search-button{
+  margin-left: 5px;
+}
+.ing-btn{
+  background-color: #26de81;
+  color: white;
+ 
+}
+.img-fluid{
+  box-shadow: 0px 10px 10px rgba(255,255,255,.5),
+              -5px -5px 5px rgba(255,255,255,.5);
+}
+.card-title{
+
+}
